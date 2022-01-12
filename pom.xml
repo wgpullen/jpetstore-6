@@ -33,20 +33,7 @@
 
   <name>JPetStore Demo 6</name>
   <url>http://www.mybatis.org</url>
-       
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>artifactory-0-releases</name>
-        <url>https://artifactory.charterpoc.cb-demos.io/artifactory/jpetstore</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>artifactory-0-snapshots</name>
-        <url>https://artifactory.charterpoc.cb-demos.io/artifactory/jpetstore</url>
-    </snapshotRepository>
-</distributionManagement> 
-       
+    
   <scm>
     <url>http://github.com/mybatis/jpetstore-6</url>
     <connection>scm:git:ssh://github.com/mybatis/jpetstore-6.git</connection>
@@ -67,6 +54,16 @@
       <name>Mybatis GitHub Pages</name>
       <url>git:ssh://git@github.com/mybatis/jpetstore-6.git?gh-pages#</url>
     </site>
+    <repository>
+        <id>central</id>
+        <name>artifactory-0-releases</name>
+        <url>https://artifactory.charterpoc.cb-demos.io/artifactory/jpetstore</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>artifactory-0-snapshots</name>
+        <url>https://artifactory.charterpoc.cb-demos.io/artifactory/jpetstore</url>
+    </snapshotRepository>     
   </distributionManagement>
 
   <dependencies>
