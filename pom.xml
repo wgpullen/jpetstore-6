@@ -57,12 +57,12 @@
     <repository>
         <id>central</id>
         <name>artifactory-0-releases</name>
-        <url>https://artifactory.charterpoc.cb-demos.io/artifactory/jpetstore</url>
+        <url>http://34.132.39.134:32000/repository/jpetstore/</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>artifactory-0-snapshots</name>
-        <url>https://artifactory.charterpoc.cb-demos.io/artifactory/jpetstore</url>
+        <url>http://34.132.39.134:32000/repository/jpetstore/</url>
     </snapshotRepository>     
   </distributionManagement>
 
