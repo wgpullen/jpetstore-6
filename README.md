@@ -1,4 +1,4 @@
-MyBatis JPetStore Naqsh01v1.8
+MyBatis JPetStore Naqsh01v1.9
 =================
 
 [![Java CI](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml/badge.svg)](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml)
