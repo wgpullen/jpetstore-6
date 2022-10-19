@@ -22,6 +22,7 @@ Essentials
 - JPetstore on MyBatis Spring Boot Starter https://github.com/kazuki43zoo/mybatis-spring-boot-jpetstore
 - Adding just a line for testing...
 - Adding tony
+- Demo for DOES!
 
 ## Run on Application Server
 Running JPetStore sample under Tomcat (using the [cargo-maven2-plugin](https://codehaus-cargo.github.io/cargo/Maven2+plugin.html)).
