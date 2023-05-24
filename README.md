@@ -22,7 +22,7 @@ Essentials
 - JPetstore on MyBatis Spring Boot Starter https://github.com/kazuki43zoo/mybatis-spring-boot-jpetstore
 - Adding just a line for testing...
 - Changing to reflect commit [shozab tag]
-- Changing to reflect commit [wes tag]
+- Changing to reflect commit [wesley tag]
 
 ## Run on Application Server
 Running JPetStore sample under Tomcat (using the [cargo-maven2-plugin](https://codehaus-cargo.github.io/cargo/Maven2+plugin.html)).
