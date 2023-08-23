@@ -23,6 +23,7 @@ Essentials
 - Adding just a line for testing...
 - Changing to reflect commit [shozab tag]
 - Changing to reflect commit [wesley tag]
+- Changing to reflect commit [greg tag]
 
 ## Run on Application Server
 Running JPetStore sample under Tomcat (using the [cargo-maven2-plugin](https://codehaus-cargo.github.io/cargo/Maven2+plugin.html)).
