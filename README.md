@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 MyBatis JPetStore Naqsh01v4.8
+=======
+MyBatis JPetStore Naqsh01v4.83
+>>>>>>> 1ce1412dc1ee16dfeccd63785c31695c58dbf271
 =================
 
 [![Java CI](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml/badge.svg)](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml)
