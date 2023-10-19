@@ -25,7 +25,7 @@ Essentials
 - Changing to reflect commit [wesley tag]
 - Changing to reflect commit [greg tag]
 - At WeWork today [greg]
-- Demo for Phil [wesley_tag]
+- Testing K8s mapping fix [wesley_tag]
   
 ## Run on Application Server
 Running JPetStore sample under Tomcat (using the [cargo-maven2-plugin](https://codehaus-cargo.github.io/cargo/Maven2+plugin.html)).
