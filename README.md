@@ -23,9 +23,9 @@ Essentials
 - Adding just a line for testing...
 - Changing to reflect commit [shozab tag]
 - Changing to reflect commit [wesley tag]
+- Changing to reflect NEW commit [wesley tag2]
 - Changing to reflect commit [greg tag]
 - At WeWork today [greg]
-- Testing something NEW for Omit and Bill [wesley_tag3]
 - SDP-11797
   
 ## Run on Application Server
