@@ -23,7 +23,7 @@ Essentials
 - Adding just a line for testing...
 - Changing to reflect commit [shozab tag]
 - Changing to reflect commit [wesley tag]
-- Changing to reflect April 2024 TEST [wesley tag2]
+- Changing for CPE Test [wesley tag2]
 - Changing to reflect commit [greg tag]
 - At WeWork today [greg]
 - SDP-11797
