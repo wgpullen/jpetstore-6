@@ -1,5 +1,6 @@
 MyBatis JPetStore Naqsh01v5.7
 =================
+## Wes Pullen Fork as of October 24, 2024
 
 [![Java CI](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml/badge.svg)](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml)
 [![Container Support](https://github.com/mybatis/jpetstore-6/actions/workflows/support.yaml/badge.svg)](https://github.com/mybatis/jpetstore-6/actions/workflows/support.yaml)
@@ -20,14 +21,6 @@ Essentials
 - JPetstore on top of Spring, Spring MVC, MyBatis 3, and Spring Security https://github.com/making/spring-jpetstore
 - JPetstore with Vaadin and Spring Boot with Java Config https://github.com/igor-baiborodine/jpetstore-6-vaadin-spring-boot
 - JPetstore on MyBatis Spring Boot Starter https://github.com/kazuki43zoo/mybatis-spring-boot-jpetstore
-- Adding just a line for testing...
-- Changing to reflect commit [shozab tag]
-- Changing to reflect commit [wesley tag]
-- Changing for June 12 Test [wesley tag2]
-- Changing to reflect commit [greg tag]
-- At WeWork today [greg]
-- SDP-11797
-- Kicking off CBP workflow
   
 ## Run on Application Server
 Running JPetStore sample under Tomcat (using the [cargo-maven2-plugin](https://codehaus-cargo.github.io/cargo/Maven2+plugin.html)).
