@@ -1,6 +1,5 @@
-MyBatis JPetStore Naqsh01v5.7
+MyBatis JPetStore
 =================
-## Wes Pullen Fork as of October 24, 2024
 
 [![Java CI](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml/badge.svg)](https://github.com/mybatis/jpetstore-6/actions/workflows/ci.yaml)
 [![Container Support](https://github.com/mybatis/jpetstore-6/actions/workflows/support.yaml/badge.svg)](https://github.com/mybatis/jpetstore-6/actions/workflows/support.yaml)
